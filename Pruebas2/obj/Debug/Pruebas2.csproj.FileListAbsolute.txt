@@ -1,0 +1,14 @@
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\Pruebas2\bin\Debug\Pruebas2.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\Pruebas2\bin\Debug\Pruebas2.pdb
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\Pruebas2\bin\Debug\BibliotecaClase.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\Pruebas2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\Pruebas2\bin\Debug\BibliotecaDALC.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\Pruebas2\bin\Debug\EntityFramework.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\Pruebas2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\Pruebas2\bin\Debug\BibliotecaClase.pdb
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\Pruebas2\bin\Debug\BibliotecaDALC.pdb
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\Pruebas2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\Pruebas2\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\Pruebas2\obj\Debug\Pruebas2.csprojResolveAssemblyReference.cache
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\Pruebas2\obj\Debug\Pruebas2.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\Pruebas2\obj\Debug\Pruebas2.pdb

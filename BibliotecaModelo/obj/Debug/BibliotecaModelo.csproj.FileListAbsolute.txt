@@ -1,0 +1,8 @@
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaModelo\bin\Debug\BibliotecaModelo.dll.config
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaModelo\bin\Debug\BibliotecaModelo.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaModelo\bin\Debug\BibliotecaModelo.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaModelo\bin\Debug\EntityFramework.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaModelo\bin\Debug\EntityFramework.xml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaModelo\obj\Debug\BibliotecaModelo.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaModelo\obj\Debug\BibliotecaModelo.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaModelo\obj\Debug\BibliotecaModelo.pdb

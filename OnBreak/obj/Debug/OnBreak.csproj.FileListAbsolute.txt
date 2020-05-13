@@ -1,0 +1,1123 @@
+D:\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe.config
+D:\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe
+D:\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.pdb
+D:\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+D:\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.g.cs
+D:\Solucion OnBreak\OnBreak\obj\Debug\App.g.cs
+D:\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+D:\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+D:\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.baml
+D:\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.g.resources
+D:\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+D:\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+D:\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.exe
+D:\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.pdb
+F:\2° Sementre (C#)\15-04-19\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe.config
+F:\2° Sementre (C#)\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.exe
+F:\2° Sementre (C#)\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\App.g.cs
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\Inicio.baml
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\Kebin\Desktop\15-04-19\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\App.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\Inicio.baml
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\abel_\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+D:\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.g.cs
+D:\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.g.cs
+D:\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.g.cs
+D:\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.g.cs
+D:\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.g.cs
+D:\Solucion OnBreak\OnBreak\obj\Debug\Inicio.g.cs
+D:\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.g.cs
+D:\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.g.cs
+D:\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.baml
+D:\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.baml
+D:\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.baml
+D:\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.baml
+D:\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.baml
+D:\Solucion OnBreak\OnBreak\obj\Debug\Inicio.baml
+D:\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.baml
+D:\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\App.g.cs
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\App.baml
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\Inicio.baml
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.pdb
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe.config
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.exe
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.pdb
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.pdb
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaClase.dll
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaControlador.dll
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\bin\Debug\ControlzEx.dll
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.dll
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaClase.pdb
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaControlador.pdb
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\bin\Debug\ControlzEx.pdb
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.pdb
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.xml
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\Resources\Icons.baml
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.g.cs
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.g.cs
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.g.cs
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.g.cs
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.g.cs
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\Inicio.g.cs
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.g.cs
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.g.cs
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.g.cs
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\App.g.cs
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\App.baml
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.baml
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.baml
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.baml
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.baml
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.baml
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\Inicio.baml
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.baml
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.baml
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.baml
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.g.resources
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\ListarEvento.g.cs
+D:\2° Sementre (C#)\Solucion OnBreak\OnBreak\obj\Debug\ListarEvento.baml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ListarEvento.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\App.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaControlador.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaControlador.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\App.baml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\Inicio.baml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ListarEvento.baml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaControlador.dll
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaControlador.pdb
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\ListarEvento.g.cs
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\App.g.cs
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\App.baml
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\Inicio.baml
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\ListarEvento.baml
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\VistaVentana.g.cs
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\OnBreak\obj\Debug\VistaVentana.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaControlador.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaControlador.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ListarEvento.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\VistaVentana.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\App.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\App.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\Inicio.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ListarEvento.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\VistaVentana.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ListarEvento.g.cs
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\VistaVentana.g.cs
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\App.g.cs
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\App.baml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\Inicio.baml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\ListarEvento.baml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\VistaVentana.baml
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\DAVID\Desktop\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe.config
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.exe
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.exe
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\bin\Debug\OnBreak.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaClase.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaControlador.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\bin\Debug\ControlzEx.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaClase.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\bin\Debug\BibliotecaControlador.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\bin\Debug\ControlzEx.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\bin\Debug\MahApps.Metro.xml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\Resources\Icons.baml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.g.cs
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.g.cs
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.g.cs
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.g.cs
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.g.cs
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\Inicio.g.cs
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.g.cs
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.g.cs
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\ListarEvento.g.cs
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.g.cs
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\VistaVentana.g.cs
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\App.g.cs
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\App.baml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\ActualizarCliente.baml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\ActualizarContrato.baml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\AgregarCliente.baml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\AgregarContrato.baml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\EliminarCliente.baml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\Inicio.baml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\ListarCliente.baml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\LIstarContrato.baml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\ListarEvento.baml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\MainWindow.baml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\VistaVentana.baml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.g.resources
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\VistaVentana.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak\OnBreak\obj\Debug\VistaVentana.baml
+D:\Solucion OnBreak finale\OnBreak\bin\Debug\OnBreak.exe.config
+D:\Solucion OnBreak finale\OnBreak\bin\Debug\OnBreak.exe
+D:\Solucion OnBreak finale\OnBreak\bin\Debug\OnBreak.pdb
+D:\Solucion OnBreak finale\OnBreak\bin\Debug\BibliotecaClase.dll
+D:\Solucion OnBreak finale\OnBreak\bin\Debug\BibliotecaControlador.dll
+D:\Solucion OnBreak finale\OnBreak\bin\Debug\ControlzEx.dll
+D:\Solucion OnBreak finale\OnBreak\bin\Debug\MahApps.Metro.dll
+D:\Solucion OnBreak finale\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+D:\Solucion OnBreak finale\OnBreak\bin\Debug\BibliotecaClase.pdb
+D:\Solucion OnBreak finale\OnBreak\bin\Debug\BibliotecaControlador.pdb
+D:\Solucion OnBreak finale\OnBreak\bin\Debug\ControlzEx.pdb
+D:\Solucion OnBreak finale\OnBreak\bin\Debug\MahApps.Metro.pdb
+D:\Solucion OnBreak finale\OnBreak\bin\Debug\MahApps.Metro.xml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\Resources\Icons.baml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\ActualizarCliente.g.cs
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\ActualizarContrato.g.cs
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\AgregarCliente.g.cs
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\AgregarContrato.g.cs
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\EliminarCliente.g.cs
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\Inicio.g.cs
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\ListarCliente.g.cs
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\LIstarContrato.g.cs
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\ListarEvento.g.cs
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\MainWindow.g.cs
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\VistaVentana.g.cs
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\App.g.cs
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\App.baml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\ActualizarCliente.baml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\ActualizarContrato.baml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\AgregarCliente.baml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\AgregarContrato.baml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\EliminarCliente.baml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\Inicio.baml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\ListarCliente.baml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\LIstarContrato.baml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\ListarEvento.baml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\MainWindow.baml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\VistaVentana.baml
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\OnBreak.g.resources
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\OnBreak.exe
+D:\Solucion OnBreak finale\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaControlador.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaControlador.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarEvento.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\VistaVentana.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\App.g.cs
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\App.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Inicio.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarEvento.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\VistaVentana.baml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaControlador.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaControlador.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarEvento.g.cs
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\VistaVentana.g.cs
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\App.g.cs
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\App.baml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Inicio.baml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarEvento.baml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\VistaVentana.baml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+E:\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.exe.config
+E:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.exe
+E:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.pdb
+D:\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.exe.config
+D:\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.exe
+D:\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.pdb
+D:\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaClase.dll
+D:\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaControlador.dll
+D:\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\ControlzEx.dll
+D:\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.dll
+D:\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+D:\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaClase.pdb
+D:\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaControlador.pdb
+D:\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\ControlzEx.pdb
+D:\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.pdb
+D:\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.xml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Resources\Icons.baml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarCliente.g.cs
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarContrato.g.cs
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarCliente.g.cs
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarContrato.g.cs
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\EliminarCliente.g.cs
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Inicio.g.cs
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarCliente.g.cs
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\LIstarContrato.g.cs
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarEvento.g.cs
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\MainWindow.g.cs
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\VistaVentana.g.cs
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\App.g.cs
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\App.baml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarCliente.baml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarContrato.baml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarCliente.baml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarContrato.baml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\EliminarCliente.baml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Inicio.baml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarCliente.baml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\LIstarContrato.baml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarEvento.baml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\MainWindow.baml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\VistaVentana.baml
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.g.resources
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.cache
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.exe
+D:\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaControlador.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaControlador.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarEvento.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\VistaVentana.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\App.g.cs
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\App.baml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Inicio.baml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarEvento.baml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\VistaVentana.baml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarEvento.g.cs
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\VistaVentana.g.cs
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\App.g.cs
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\App.baml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Inicio.baml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarEvento.baml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\VistaVentana.baml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarEvento.g.cs
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\VistaVentana.g.cs
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\App.g.cs
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\App.baml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\Inicio.baml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\ListarEvento.baml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\VistaVentana.baml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\OnBreak\obj\Debug\OnBreak.pdb
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\Icons.baml
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.g.cs
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarContrato.g.cs
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.g.cs
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.g.cs
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\EliminarCliente.g.cs
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.g.cs
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.g.cs
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.g.cs
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\ListarEvento.g.cs
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.g.cs
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\VistaVentana.g.cs
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\App.g.cs
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\ListarEvento.g.cs
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\VistaVentana.g.cs
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\App.g.cs
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\ListarEvento.g.cs
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\VistaVentana.g.cs
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\App.g.cs
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaDALC.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\EntityFramework.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaDALC.pdb
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\EntityFramework.xml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\App.g.cs
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\App.baml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.baml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\App.g.cs
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaDALC.dll
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\EntityFramework.dll
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaDALC.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\EntityFramework.xml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\App.baml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.baml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\duoc\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarContrato.g.cs
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\EliminarCliente.g.cs
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\App.g.cs
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaDALC.dll
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\EntityFramework.dll
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaDALC.pdb
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\EntityFramework.xml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\App.baml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarContrato.baml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\EliminarCliente.baml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.baml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\UpdContracto.g.cs
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\App.g.cs
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaDALC.dll
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\EntityFramework.dll
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\EntityFramework.xml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\App.baml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.baml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\UpdContracto.baml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaDALC.pdb
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaDALC.dll
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\EntityFramework.dll
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaDALC.pdb
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\EntityFramework.xml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\UpdContracto.g.cs
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\App.g.cs
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\App.baml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.baml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\UpdContracto.baml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaDALC.dll
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\EntityFramework.dll
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaDALC.pdb
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\EntityFramework.xml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\UpdContracto.g.cs
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\App.g.cs
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\App.baml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.baml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\UpdContracto.baml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe.config
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.exe
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.pdb
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.exe
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\OnBreak.pdb
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaDALC.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\ControlzEx.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\EntityFramework.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\BibliotecaDALC.pdb
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\ControlzEx.pdb
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\EntityFramework.xml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.pdb
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\MahApps.Metro.xml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\Icons.baml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.g.cs
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.g.cs
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.g.cs
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.g.cs
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.g.cs
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.g.cs
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\UpdContracto.g.cs
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\App.g.cs
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.cache
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak_MarkupCompile.lref
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\App.baml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\ActualizarCliente.baml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarCliente.baml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\AgregarContrato.baml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\Inicio.baml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\ListarCliente.baml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\LIstarContrato.baml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\MainWindow.baml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\UpdContracto.baml
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.g.resources
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.Properties.Resources.resources
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\OnBreak\obj\Debug\OnBreak.csproj.GenerateResource.Cache
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\Logo.g.cs
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\OnBreak\obj\Debug\Logo.baml

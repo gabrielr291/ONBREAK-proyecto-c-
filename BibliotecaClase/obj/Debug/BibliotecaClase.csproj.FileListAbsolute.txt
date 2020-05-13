@@ -1,0 +1,187 @@
+D:\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+D:\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+D:\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+D:\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+D:\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+D:\2° Sementre (C#)\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+D:\2° Sementre (C#)\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+D:\2° Sementre (C#)\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+D:\2° Sementre (C#)\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+D:\2° Sementre (C#)\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaControlador.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaControlador.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaControlador.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaControlador.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaControlador.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaClase\bin\Debug\BibliotecaControlador.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+D:\Solucion OnBreak finale\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+D:\Solucion OnBreak finale\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+D:\Solucion OnBreak finale\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+D:\Solucion OnBreak finale\BibliotecaClase\bin\Debug\BibliotecaControlador.dll
+D:\Solucion OnBreak finale\BibliotecaClase\bin\Debug\BibliotecaControlador.pdb
+D:\Solucion OnBreak finale\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+D:\Solucion OnBreak finale\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+D:\Solucion OnBreak finale\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaControlador.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaControlador.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaControlador.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaControlador.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+D:\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+D:\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+D:\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+D:\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaControlador.dll
+D:\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaControlador.pdb
+D:\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+D:\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+D:\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaControlador.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaControlador.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaClase\bin\Debug\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\Kami\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\Kami\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\Kami\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaDALC.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\EntityFramework.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaDALC.pdb
+C:\Users\Kami\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\EntityFramework.xml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\Kami\Desktop\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\Kami\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\duoc\Desktop\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\duoc\Desktop\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\duoc\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\duoc\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaDALC.dll
+C:\Users\duoc\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\EntityFramework.dll
+C:\Users\duoc\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\duoc\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaDALC.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\EntityFramework.xml
+C:\Users\duoc\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaDALC.dll
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\BibliotecaClase\bin\Debug\EntityFramework.dll
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\BibliotecaClase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaDALC.pdb
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\BibliotecaClase\bin\Debug\EntityFramework.xml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\BibliotecaClase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\Presentacion 3\OneBreak\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaDALC.dll
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\BibliotecaClase\bin\Debug\EntityFramework.dll
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\BibliotecaClase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\BibliotecaClase\bin\Debug\EntityFramework.xml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\BibliotecaClase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\Kami\Desktop\El de la derecha\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaDALC.pdb
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaDALC.dll
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaDALC.pdb
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\BibliotecaClase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\Nicole\Desktop\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaDALC.dll
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaDALC.pdb
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\EntityFramework.xml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\thede\OneDrive\Escritorio\onbreaknuevoo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.csprojResolveAssemblyReference.cache
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.dll.config
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaDALC.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\BibliotecaDALC.pdb
+C:\Users\Kami\Desktop\Gabo\Solucion OnBreak Final editar este\Solucion OnBreak Final\BibliotecaClase\bin\Debug\Newtonsoft.Json.xml

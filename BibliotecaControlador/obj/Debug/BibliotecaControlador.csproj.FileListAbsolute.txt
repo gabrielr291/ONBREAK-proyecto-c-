@@ -1,0 +1,110 @@
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\5° Semestre\onBreak\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+D:\2° Sementre (C#)\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+D:\2° Sementre (C#)\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+D:\2° Sementre (C#)\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+D:\2° Sementre (C#)\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+D:\2° Sementre (C#)\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+D:\2° Sementre (C#)\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+D:\2° Sementre (C#)\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+C:\Users\abel_\Desktop\Version2\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll.config
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll.config
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll.config
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll.config
+D:\Solucion OnBreak finale\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll.config
+D:\Solucion OnBreak finale\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+D:\Solucion OnBreak finale\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+D:\Solucion OnBreak finale\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+D:\Solucion OnBreak finale\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+D:\Solucion OnBreak finale\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+D:\Solucion OnBreak finale\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+D:\Solucion OnBreak finale\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll.config
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll.config
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+D:\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll.config
+D:\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+D:\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+D:\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+D:\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+D:\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+D:\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+D:\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll.config
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll.config
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll.config
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache

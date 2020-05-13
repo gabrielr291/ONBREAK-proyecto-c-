@@ -1,0 +1,417 @@
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\ApplicationInsights.config
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\WS_UF.dll.config
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\WS_UF.dll
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\WS_UF.pdb
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Microsoft.AI.Web.dll
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Microsoft.ApplicationInsights.dll
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Newtonsoft.Json.dll
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Microsoft.AI.Web.xml
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Microsoft.ApplicationInsights.xml
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Newtonsoft.Json.pdb
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\bin\Newtonsoft.Json.xml
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\obj\Debug\WS_UF.dll
+c:\users\duoc\documents\visual studio 2015\Projects\Solucion UF\WS_UF\obj\Debug\WS_UF.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\ApplicationInsights.config
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\WS_UF.dll.config
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\WS_UF.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\WS_UF.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Web.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Web.xml
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.xml
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\ApplicationInsights.config
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\WS_UF.dll.config
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\WS_UF.dll
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\WS_UF.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Web.dll
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.dll
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Web.xml
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.xml
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.dll
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\ApplicationInsights.config
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\WS_UF.dll.config
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\WS_UF.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\WS_UF.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Web.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Web.xml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.xml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\BibliotecaClase.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\BibliotecaControlador.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\BibliotecaClase.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\bin\BibliotecaControlador.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\ApplicationInsights.config
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\WS_UF.dll.config
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\WS_UF.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\WS_UF.pdb
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Web.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Web.xml
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.pdb
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.xml
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.dll
+C:\Users\DAVID\Desktop\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\ApplicationInsights.config
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\WS_UF.dll.config
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\WS_UF.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\WS_UF.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\BibliotecaClase.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\BibliotecaControlador.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Web.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Microsoft.ApplicationInsights.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\BibliotecaClase.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\BibliotecaControlador.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Microsoft.AI.Web.xml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Microsoft.ApplicationInsights.xml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.pdb
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\bin\Newtonsoft.Json.xml
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.dll
+D:\2° Sementre (C#)\Version2\PorSiACaso\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\BibliotecaClase.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\BibliotecaControlador.dll
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\BibliotecaClase.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\bin\BibliotecaControlador.pdb
+C:\Users\duoc\Desktop\Solucion OnBreak\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+D:\Solucion OnBreak finale\WS_UF\bin\ApplicationInsights.config
+D:\Solucion OnBreak finale\WS_UF\bin\WS_UF.dll.config
+D:\Solucion OnBreak finale\WS_UF\bin\WS_UF.dll
+D:\Solucion OnBreak finale\WS_UF\bin\WS_UF.pdb
+D:\Solucion OnBreak finale\WS_UF\bin\BibliotecaClase.dll
+D:\Solucion OnBreak finale\WS_UF\bin\BibliotecaControlador.dll
+D:\Solucion OnBreak finale\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Solucion OnBreak finale\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+D:\Solucion OnBreak finale\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Solucion OnBreak finale\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Solucion OnBreak finale\WS_UF\bin\Microsoft.AI.Web.dll
+D:\Solucion OnBreak finale\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+D:\Solucion OnBreak finale\WS_UF\bin\Microsoft.ApplicationInsights.dll
+D:\Solucion OnBreak finale\WS_UF\bin\Newtonsoft.Json.dll
+D:\Solucion OnBreak finale\WS_UF\bin\BibliotecaClase.pdb
+D:\Solucion OnBreak finale\WS_UF\bin\BibliotecaControlador.pdb
+D:\Solucion OnBreak finale\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+D:\Solucion OnBreak finale\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Solucion OnBreak finale\WS_UF\bin\Microsoft.AI.Web.xml
+D:\Solucion OnBreak finale\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+D:\Solucion OnBreak finale\WS_UF\bin\Microsoft.ApplicationInsights.xml
+D:\Solucion OnBreak finale\WS_UF\bin\Newtonsoft.Json.pdb
+D:\Solucion OnBreak finale\WS_UF\bin\Newtonsoft.Json.xml
+D:\Solucion OnBreak finale\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+D:\Solucion OnBreak finale\WS_UF\obj\Debug\WS_UF.dll
+D:\Solucion OnBreak finale\WS_UF\obj\Debug\WS_UF.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\ApplicationInsights.config
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.dll.config
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaClase.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaControlador.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Web.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaClase.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaControlador.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Web.xml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.pdb
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.xml
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.dll
+C:\Users\LeonTijs\Desktop\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\ApplicationInsights.config
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.dll.config
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaClase.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaControlador.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Web.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaClase.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaControlador.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Web.xml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.pdb
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.xml
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.dll
+C:\Users\citt2016\Downloads\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.pdb
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\ApplicationInsights.config
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.dll.config
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.dll
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.pdb
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaClase.dll
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaControlador.dll
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Web.dll
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.ApplicationInsights.dll
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.dll
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaClase.pdb
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaControlador.pdb
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Web.xml
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.ApplicationInsights.xml
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.pdb
+D:\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.xml
+D:\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+D:\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.dll
+D:\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\ApplicationInsights.config
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.dll.config
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaClase.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaControlador.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Web.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaClase.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaControlador.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Web.xml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.pdb
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.xml
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.dll
+C:\Users\abel_\Desktop\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\ApplicationInsights.config
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.dll.config
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Web.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Web.xml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.pdb
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.xml
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.dll
+C:\Users\DAVID\Desktop\OnBreak EstaSi\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\ApplicationInsights.config
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.dll.config
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\WS_UF.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaClase.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaControlador.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Web.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaClase.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\BibliotecaControlador.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.Web.xml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.pdb
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\bin\Newtonsoft.Json.xml
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.dll
+C:\Users\DAVID\Desktop\OnBreak\Solucion OnBreak Final,presentado\WS_UF\obj\Debug\WS_UF.pdb
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\ApplicationInsights.config
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\WS_UF.dll.config
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\WS_UF.dll
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\WS_UF.pdb
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.Web.dll
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.ApplicationInsights.dll
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Newtonsoft.Json.dll
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.Web.xml
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.ApplicationInsights.xml
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Newtonsoft.Json.pdb
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\bin\Newtonsoft.Json.xml
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\obj\Debug\WS_UF.dll
+D:\DEY3101- Freddy 005D\Penultima iteracion onBreak\Esperanza\Solucion OnBreak Final\WS_UF\obj\Debug\WS_UF.pdb
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\ApplicationInsights.config
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\WS_UF.dll.config
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\WS_UF.dll
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\WS_UF.pdb
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.Web.dll
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Newtonsoft.Json.dll
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.Web.xml
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Newtonsoft.Json.pdb
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\bin\Newtonsoft.Json.xml
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\obj\Debug\WS_UF.dll
+C:\Users\duoc\Desktop\Esperanza\Solucion OnBreak Final\WS_UF\obj\Debug\WS_UF.pdb
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\ApplicationInsights.config
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\WS_UF.dll.config
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\WS_UF.dll
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\WS_UF.pdb
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.Web.dll
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Newtonsoft.Json.dll
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.Web.xml
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Newtonsoft.Json.pdb
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\bin\Newtonsoft.Json.xml
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\obj\Debug\WS_UF.dll
+C:\Users\Kami\Desktop\Iteracion c#\La ultima caprta, DEJA DE HACER NEUVAS CARPETAS\Esperanza\Solucion OnBreak Final\WS_UF\obj\Debug\WS_UF.pdb
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\ApplicationInsights.config
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\WS_UF.dll.config
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\WS_UF.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\WS_UF.pdb
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.Web.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Newtonsoft.Json.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.Web.xml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Newtonsoft.Json.pdb
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\bin\Newtonsoft.Json.xml
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\obj\Debug\WS_UF.csprojResolveAssemblyReference.cache
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\obj\Debug\WS_UF.dll
+C:\Users\Kami\Desktop\Solucion OnBreak Final\WS_UF\obj\Debug\WS_UF.pdb
